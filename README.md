@@ -1,7 +1,7 @@
-# Restaurant Order Analysis
+# Restaurant Menu Analysis
 
 ## Objective
-The objective of this project is to analyze order data from a restaurant database to identify the most and least popular menu items and types of cuisine.
+The objective of this project was to answer business questions related to the performance of dishes on a new menu and the spending habits of the biggest spenders. Additionally, the analysis aimed to provide insights on which cuisines were generating the most revenue for the restaurant.
 
 ## Analysis and Insights
 
@@ -32,10 +32,6 @@ Based on the analysis, the following recommendations can be made to the restaura
     - Consider removing dishes with lower popularity, such as Edamame, to streamline the menu.
     - Focus on optimizing the menu by retaining high-performing dishes and removing those with lower demand.
 
-
-### Conclusion
-Based on the analysis conducted, several insights were gained regarding customer preferences, popular menu items, and trends in dining behavior. These insights can be valuable for making data-driven decisions to optimize menu offerings, improve customer satisfaction, and enhance overall restaurant performance.
-
 ## Technologies Used
 - SQL
 - MySQL Workbench
@@ -46,7 +42,11 @@ Based on the analysis conducted, several insights were gained regarding customer
 3. Open the SQL files in your preferred SQL editor (e.g., MySQL Workbench) to run the queries and analyze the data.
 4. Explore the analysis and insights section in the README.md file to understand the findings of the project.
 
-## Contributor
+## Contributors
 - [Divya Pardeshi](https://github.com/Divya-Pardeshi)
 
+## Thank You
+Thank you for visiting this project. Your support and interest are greatly appreciated.
+
+Please ⭐️ this repo and share it with others.
 
