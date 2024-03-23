@@ -1,4 +1,4 @@
-# Restaurant Menu Analysis
+# Restaurant Order Analysis
 
 ## Objective
 The objective of this project was to answer business questions related to the performance of dishes on a new menu and the spending habits of the biggest spenders. Additionally, the analysis aimed to provide insights on which cuisines were generating the most revenue for the restaurant.
