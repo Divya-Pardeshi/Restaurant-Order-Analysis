@@ -10,7 +10,7 @@ The objective of this project was to answer business questions related to the pe
     - Identified as the most popular dish on the menu.
     - Demonstrates strong demand among customers.
 
-- **Least Performing Dish:** Edamame (Asian Cuisine)
+- **Least Performing Dish:** Edamame 
     - Identified as the least popular dish on the menu.
     - Indicates lower demand among customers compared to other menu items.
 
